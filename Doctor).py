@@ -6,7 +6,7 @@ from aiogram.fsm.state import State, StatesGroup
 from aiogram.fsm.storage.memory import MemoryStorage
 from aiogram.types import ReplyKeyboardMarkup, KeyboardButton, ReplyKeyboardRemove
 
-API_TOKEN = '7538752864:AAEoLSgAtDdP_4vXI3gS2Zu1CXYtyz8D_Wo'
+API_TOKEN = 'ВАШ ТОКЕН'
 
 # Настройка логгера
 logging.basicConfig(level=logging.INFO)
